@@ -5,9 +5,7 @@
 - 🌱 Currently seeking **Summer 2026 internships** in Data Science / ML / Backend
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-8aa733234/)
 
----
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-2804&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="165" />
 </p>
 
