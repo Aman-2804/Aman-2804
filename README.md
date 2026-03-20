@@ -19,8 +19,7 @@
 
 ## 🚀 Projects
 
-### 🈳 [Manga Translator](https://github.com/Aman-2804/Manga-Translator) · <a href="https://huggingface.co/spaces/Aman-2804/Manga-Translator"><img src="https://img.shields.io/badge/▶ Live
-  Demo-06D6A0?style=flat&logoColor=white" /></a>
+### 🈳 [Manga Translator](https://github.com/Aman-2804/Manga-Translator) · <a href="https://huggingface.co/spaces/Aman-2804/Manga-Translator"><img src="https://img.shields.io/badge/▶ Live Demo-06D6A0?style=flat&logoColor=white" /></a>
 `Python` `YOLOv8` `UNet++` `FastAPI` `OpenCV` `Claude API`
 
 End-to-end pipeline that takes raw manga pages (images or PDF) and returns fully translated versions — Japanese text erased with inpainting and replaced with translated text in the right font and size. Uses YOLOv8 for bubble detection, UNet++ for text segmentation, manga-ocr, and Claude Haiku for contextual translation.  
