@@ -19,7 +19,8 @@
 
 ## 🚀 Projects
 
-### 🈳 [Manga Translator](https://github.com/Aman-2804/Manga-Translator)
+### 🈳 [Manga Translator](https://github.com/Aman-2804/Manga-Translator) · <a href="https://huggingface.co/spaces/Aman-2804/Manga-Translator"><img src="https://img.shields.io/badge/▶ Live
+  Demo-06D6A0?style=flat&logoColor=white" /></a>
 `Python` `YOLOv8` `UNet++` `FastAPI` `OpenCV` `Claude API`
 
 End-to-end pipeline that takes raw manga pages (images or PDF) and returns fully translated versions — Japanese text erased with inpainting and replaced with translated text in the right font and size. Uses YOLOv8 for bubble detection, UNet++ for text segmentation, manga-ocr, and Claude Haiku for contextual translation.  
@@ -29,7 +30,8 @@ End-to-end pipeline that takes raw manga pages (images or PDF) and returns fully
 
 Apache Spark pipeline that processes millions of NYC traffic collision records through a Bronze → Silver → Gold data lake. Produces a star-schema dimensional model, 19 pre-built SQL analytics queries, synthetic ICBC-aligned insurance claims, and interactive Plotly dashboards.  
 
-### 🎮 [Jeopardy!](https://github.com/Aman-2804/jeopardy) · [▶ Live Demo](https://jeopardy-by-aman.onrender.com)
+### 🎮 [Jeopardy!](https://github.com/Aman-2804/jeopardy) · <a href="https://jeopardy-by-aman.onrender.com"><img src="https://img.shields.io/badge/▶ Live                                 
+  Demo-06D6A0?style=flat&logoColor=white" /></a>                              
 `React` `Express` `SQLite` `Vite` `Tailwind CSS`
 
 Full-stack Jeopardy! web app using real historical game data scraped from J! Archive. Authentic board styling, score tracking, Jeopardy/Double Jeopardy rounds, and background music.  
