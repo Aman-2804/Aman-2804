@@ -10,9 +10,9 @@
   - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-8aa733234/)                                          
                                                                                                                                   
   </td>                                                                                                                           
-  <td valign="top">                                                                                                               
-                                                                                                                                  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-2804&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />                                                                                                              
+  <td valign="top">  
+   
+  <img src="https://img.shields.io/github/stars/Aman-2804?style=social" />                                                                                                             
                                                                                                                                   
   </td>                                  
   </tr>
