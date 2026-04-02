@@ -12,7 +12,7 @@
   </td>                                                                                                                           
   <td valign="top">  
    
-  <img src="https://img.shields.io/github/stars/Aman-2804?style=social" />                                                                                                             
+   <img src="https://github-readme-stats.vercel.app/api?username=Aman-2804&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />                                                                                                       
                                                                                                                                   
   </td>                                  
   </tr>
