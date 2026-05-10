@@ -20,7 +20,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · JavaScript · SQL  
+**Languages:** Python · JavaScript · SQL · C++ 
 **ML/AI:** PyTorch · HuggingFace Transformers · YOLOv8 · BERT · PySpark  
 **Backend:** FastAPI · Node.js · Express · Celery · Redis · PostgreSQL · SQLite  
 **Data Engineering:** Apache Spark · Docker · Parquet · Meilisearch · Dimensional Modeling  
