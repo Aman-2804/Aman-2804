@@ -1,18 +1,9 @@
 # Hi, I'm Aman Sharma 👋
 
- <table>                                                                                                                         
-  <tr>                                                                                                                            
-  <td valign="top" width="60%">                                                                                                   
-                                                                                                                                  
-  - 🎓 **Computer Science** student at **Simon Fraser University, Canada**                                                        
-  - 💡 Passionate about **data engineering**, **machine learning**, **cloud** and **building end-to-end systems**                 
-  - 🌱 Currently seeking **Summer 2026 internships** in Data Science / ML / Backend                                               
-  - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-8aa733234/)                                          
-                                                                                                                                  
-  </td>                                                                                                                           
-  <td valign="top">  
-                                                                                                        
-  </table>
+- 🎓 **Computer Science** student at **Simon Fraser University, Canada**
+- 💡 Passionate about **data engineering**, **machine learning**, **cloud** and **building end-to-end systems**
+- 🌱 Currently seeking **Summer 2026 internships** in Data Science / ML / Backend
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-8aa733234/)
 
 ## 🛠 Tech Stack
 
