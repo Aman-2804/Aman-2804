@@ -20,7 +20,7 @@
 
 End-to-end pipeline that takes raw manga pages (images or PDF) and returns fully translated versions — Japanese text erased with inpainting and replaced with translated text in the right font and size. Uses YOLOv8 for bubble detection, UNet++ for text segmentation, manga-ocr, and Claude Haiku for contextual translation.  
 
-### 🩺 [ADAPT - Skin Lesion Annotator Disagreement Prediction](https://github.com/Aman-2804/CMPT-419-PROJECT)
+### 🩺 [ADAPT - Skin Lesion Annotator Disagreement Prediction](https://github.com/Aman-2804/CMPT-419-PROJECT)(https://github.com/Aman-2804/ADAPT-Annotator-Disagreement-Assessment-from-Pigmented-lesion-Traits)
 `Python` `PyTorch` `ResNet-50` `Grad-CAM` `Gradio`
 
 CNN regression pipeline that predicts annotator disagreement in dermoscopy image segmentation from the image alone. Trains ResNet-18/50 backbones with automated hyperparameter search, a reusable PyTorch data-loading stack with dataset contract validation, and a Gradio inference UI with Grad-CAM explainability overlays.
